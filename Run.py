@@ -1,12 +1,12 @@
 import platform
 import os
-try:os.system("xdg-open https://www.facebook.com/jafar.sadiq.1675275?mibextid=ZbWKwL")
-except:pass	
+#try:os.system("xdg-open https://www.facebook.com/jafar.sadiq.1675275?mibextid=ZbWKwL")
+#except:pass	
 try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
 os.system('git pull')
-try:os.system('touch /sdcard/james.txt')
+#try:os.system('touch /sdcard/james.txt')
 except:pass
 try:os.system('touch .proxy.txt')
 except:pass
